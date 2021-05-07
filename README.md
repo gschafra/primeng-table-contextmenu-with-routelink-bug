@@ -1,4 +1,6 @@
-# Ng9App
+# PrimeNG LTS v9.2.7 context menu with router link bug
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/gschafra/primeng-table-contextmenu-with-routelink-bug)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.15.
 
